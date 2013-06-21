@@ -1,5 +1,6 @@
 package com.IBConnector.Data;
 // testing git commit and push functionality
+// testing git some more
 public class Bar {
 	
 	public final String symbol;
